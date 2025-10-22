@@ -4,7 +4,7 @@ I like SwiftUI and its API a lot, so much that I build a DesignSystem for a clie
 
 Here is what we have in public: 
 - [SnappTheming](https://github.com/Snapp-Mobile/SnappTheming) - check it out.
-- [SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - tokens into swift-understand formatt.
+- [SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - tokens into swift-understand format.
 
 I'm also a runner - helps me to keep my mind clear and keeps my Strava active. 
 <!--
