@@ -10,7 +10,7 @@ Here is what we have in public:
 
 ### Developer Tools
 - [swift-coverage-action](https://github.com/Snapp-Mobile/swift-coverage-action) - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
-- [SwiftFormatLintPlugin](https://github.com/oleksiikolomiietssnapp/SwiftFormatLintPlugin) - SPM plugin for swift-format linting and auto-formatting, with Xcode support
+- [SwiftFormatLintPlugin](https://github.com/Snapp-Mobile/SwiftFormatLintPlugin) - SPM plugin for swift-format linting and auto-formatting, with Xcode support
 
 I'm also a runner - helps me to keep my mind clear and keeps my Strava active.
 <!--
