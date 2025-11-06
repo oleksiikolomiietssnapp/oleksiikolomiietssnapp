@@ -6,6 +6,7 @@ Here is what we have in public:
 
 ### Design System & Tokens
 - [SnappTheming](https://github.com/Snapp-Mobile/SnappTheming) - A comprehensive SwiftUI design system with theming capabilities
+  - [SnappThemingSVGSupport](https://github.com/Snapp-Mobile/SnappThemingSVGSupport) - enables support for SVG asset handling in SnappTheming
 - [SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - Design tokens in Swift-understandable format
 
 ### Developer Tools
