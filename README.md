@@ -23,7 +23,7 @@ Here is what we have in public:
 </div>
 
 <div style="display: flex; align-items: stretch; gap: 16px; margin-bottom: 24px;">
-  <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo.png" width="128" style="flex-shrink: 0;">
+  <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="128" style="flex-shrink: 0;">
   <div style="display: flex; flex-direction: column; gap: 8px; justify-content: center;">
     <div><a href="https://github.com/Snapp-Mobile/SnappDesignTokens"><strong>SnappDesignTokens</strong></a></div>
     <div>Design tokens in Swift-understandable format</div>
