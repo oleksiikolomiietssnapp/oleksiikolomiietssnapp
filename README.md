@@ -43,9 +43,11 @@ Here is what we have in public:
 
 ### Developer Tools
 
-- <strong><a href="https://github.com/Snapp-Mobile/swift-coverage-action">swift-coverage-action</a></strong> <a href="https://github.com/Snapp-Mobile/swift-coverage-action/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/swift-coverage-action?style=flat-square" alt="Release"></a> - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
+- <strong><a href="https://github.com/Snapp-Mobile/swift-coverage-action">swift-coverage-action</a></strong> - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
+  <a href="https://github.com/Snapp-Mobile/swift-coverage-action/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/swift-coverage-action?style=flat-square" alt="Release"></a>
 
-- <strong><a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin">SwiftFormatLintPlugin</a></strong> <a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SwiftFormatLintPlugin?style=flat-square" alt="Release"></a> - SPM plugin for swift-format linting and auto-formatting, with Xcode support
+- <strong><a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin">SwiftFormatLintPlugin</a></strong> - SPM plugin for swift-format linting and auto-formatting, with Xcode support                         
+  <a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SwiftFormatLintPlugin?style=flat-square" alt="Release"></a>
 
 I'm also a runner - helps me to keep my mind clear and keeps my Strava active.
 <!--
