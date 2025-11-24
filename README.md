@@ -41,8 +41,6 @@ Here is what we have in public:
   </tr>
 </table>
 
-<br/>
-
 ### Developer Tools
 
 <table>
