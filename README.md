@@ -8,8 +8,8 @@ Here is what we have in public:
 
 <table>
   <tr>
-    <td width="128" valign="top">
-      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="128">
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="64">
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappTheming">SnappTheming</a></strong><br/>
@@ -18,8 +18,8 @@ Here is what we have in public:
   </tr>
 
   <tr>
-    <td width="128" valign="top">
-      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="128">
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="64">
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong><br/>
@@ -28,8 +28,8 @@ Here is what we have in public:
   </tr>
 
   <tr>
-    <td width="128" valign="top">
-      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="128">
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="64">
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappDesignTokens">SnappDesignTokens</a></strong><br/>
