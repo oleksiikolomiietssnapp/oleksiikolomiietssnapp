@@ -41,9 +41,25 @@ Here is what we have in public:
   </tr>
 </table>
 
+<br/>
+
 ### Developer Tools
-- [swift-coverage-action](https://github.com/Snapp-Mobile/swift-coverage-action) - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
-- [SwiftFormatLintPlugin](https://github.com/Snapp-Mobile/SwiftFormatLintPlugin) - SPM plugin for swift-format linting and auto-formatting, with Xcode support
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/Snapp-Mobile/swift-coverage-action">swift-coverage-action</a></strong> <a href="https://github.com/Snapp-Mobile/swift-coverage-action/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/swift-coverage-action?style=flat-square" alt="Release"></a><br/>
+      GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin">SwiftFormatLintPlugin</a></strong> <a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SwiftFormatLintPlugin?style=flat-square" alt="Release"></a><br/>
+      SPM plugin for swift-format linting and auto-formatting, with Xcode support
+    </td>
+  </tr>
+</table>
 
 I'm also a runner - helps me to keep my mind clear and keeps my Strava active.
 <!--
