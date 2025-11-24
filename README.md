@@ -12,7 +12,7 @@ Here is what we have in public:
       <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="64">
     </td>
     <td valign="top">
-      <strong><a href="https://github.com/Snapp-Mobile/SnappTheming">SnappTheming</a></strong><br/>
+      <strong><a href="https://github.com/Snapp-Mobile/SnappTheming">SnappTheming</a></strong> [![Release](https://img.shields.io/github/v/release/Snapp-Mobile/SnappTheming?style=flat-square)](https://github.com/Snapp-Mobile/SnappTheming/releases)<br/>
       A comprehensive SwiftUI design system with theming capabilities
     </td>
   </tr>
@@ -22,7 +22,7 @@ Here is what we have in public:
       <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="64">
     </td>
     <td valign="top">
-      <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong><br/>
+      <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong> [![Release](https://img.shields.io/github/v/release/Snapp-Mobile/SnappThemingSVGSupport?style=flat-square)](https://github.com/Snapp-Mobile/SnappThemingSVGSupport/releases)<br/>
       enables support for SVG asset handling in SnappTheming
     </td>
   </tr>
@@ -32,7 +32,7 @@ Here is what we have in public:
       <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="64">
     </td>
     <td valign="top">
-      <strong><a href="https://github.com/Snapp-Mobile/SnappDesignTokens">SnappDesignTokens</a></strong><br/>
+      <strong><a href="https://github.com/Snapp-Mobile/SnappDesignTokens">SnappDesignTokens</a></strong> [![Release](https://img.shields.io/github/v/release/Snapp-Mobile/SnappDesignTokens?style=flat-square)](https://github.com/Snapp-Mobile/SnappDesignTokens/releases)<br/>
       Design tokens in Swift-understandable format
     </td>
   </tr>
