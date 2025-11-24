@@ -5,9 +5,9 @@ I like SwiftUI and its API a lot, so much that I build a DesignSystem for a clie
 Here is what we have in public:
 
 ### Design System & Tokens
-- <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" height="24"> [SnappTheming](https://github.com/Snapp-Mobile/SnappTheming) - A comprehensive SwiftUI design system with theming capabilities
-  - <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" height="24"> [SnappThemingSVGSupport](https://github.com/Snapp-Mobile/SnappThemingSVGSupport) - enables support for SVG asset handling in SnappTheming
-- <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo.png" height="24"> [SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - Design tokens in Swift-understandable format
+- <div style="display: flex; align-items: center; gap: 8px;"><img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" height="24" style="flex-shrink: 0;"><span>[SnappTheming](https://github.com/Snapp-Mobile/SnappTheming) - A comprehensive SwiftUI design system with theming capabilities</span></div>
+  - <div style="display: flex; align-items: center; gap: 8px;"><img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" height="24" style="flex-shrink: 0;"><span>[SnappThemingSVGSupport](https://github.com/Snapp-Mobile/SnappThemingSVGSupport) - enables support for SVG asset handling in SnappTheming</span></div>
+- <div style="display: flex; align-items: center; gap: 8px;"><img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo.png" height="24" style="flex-shrink: 0;"><span>[SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - Design tokens in Swift-understandable format</span></div>
 
 ### Developer Tools
 - [swift-coverage-action](https://github.com/Snapp-Mobile/swift-coverage-action) - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
