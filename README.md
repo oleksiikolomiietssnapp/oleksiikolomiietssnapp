@@ -5,9 +5,38 @@ I like SwiftUI and its API a lot, so much that I build a DesignSystem for a clie
 Here is what we have in public:
 
 ### Design System & Tokens
-- [SnappTheming](https://github.com/Snapp-Mobile/SnappTheming) - A comprehensive SwiftUI design system with theming capabilities
-  - [SnappThemingSVGSupport](https://github.com/Snapp-Mobile/SnappThemingSVGSupport) - enables support for SVG asset handling in SnappTheming
-- [SnappDesignTokens](https://github.com/Snapp-Mobile/SnappDesignTokens) - Design tokens in Swift-understandable format
+
+<table>
+  <tr>
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="64">
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/Snapp-Mobile/SnappTheming">SnappTheming</a></strong><br/>
+      A comprehensive SwiftUI design system with theming capabilities
+    </td>
+  </tr>
+
+  <tr>
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="64">
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong><br/>
+      enables support for SVG asset handling in SnappTheming
+    </td>
+  </tr>
+
+  <tr>
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="64">
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/Snapp-Mobile/SnappDesignTokens">SnappDesignTokens</a></strong><br/>
+      Design tokens in Swift-understandable format
+    </td>
+  </tr>
+</table>
 
 ### Developer Tools
 - [swift-coverage-action](https://github.com/Snapp-Mobile/swift-coverage-action) - GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates
