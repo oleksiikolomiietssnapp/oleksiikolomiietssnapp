@@ -6,25 +6,21 @@ Here is what we have in public:
 
 ### Design System & Tokens
 
-<div style="display: flex; align-items: stretch; gap: 16px; margin-bottom: 24px;">
-  <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="128" style="flex-shrink: 0;">
-  <div style="display: flex; flex-direction: column; gap: 8px; justify-content: center;">
+<div style="display: flex; flex-direction: column; gap: 32px; margin-bottom: 24px;">
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappTheming/main/Sources/SnappTheming/SnappTheming.docc/Resources/logo%402x.png" width="128" style="flex-shrink: 0;">
     <div><a href="https://github.com/Snapp-Mobile/SnappTheming"><strong>SnappTheming</strong></a></div>
     <div>A comprehensive SwiftUI design system with theming capabilities</div>
   </div>
-</div>
 
-<div style="display: flex; align-items: stretch; gap: 16px; margin-bottom: 24px;">
-  <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="128" style="flex-shrink: 0;">
-  <div style="display: flex; flex-direction: column; gap: 8px; justify-content: center;">
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="128" style="flex-shrink: 0;">
     <div><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport"><strong>SnappThemingSVGSupport</strong></a></div>
     <div>enables support for SVG asset handling in SnappTheming</div>
   </div>
-</div>
 
-<div style="display: flex; align-items: stretch; gap: 16px; margin-bottom: 24px;">
-  <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="128" style="flex-shrink: 0;">
-  <div style="display: flex; flex-direction: column; gap: 8px; justify-content: center;">
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappDesignTokens/main/Sources/SnappDesignTokens/SnappDesignTokens.docc/Resources/logo_tokens.png" width="128" style="flex-shrink: 0;">
     <div><a href="https://github.com/Snapp-Mobile/SnappDesignTokens"><strong>SnappDesignTokens</strong></a></div>
     <div>Design tokens in Swift-understandable format</div>
   </div>
