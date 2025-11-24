@@ -37,6 +37,35 @@ Here is what we have in public:
 - [SwiftFormatLintPlugin](https://github.com/Snapp-Mobile/SwiftFormatLintPlugin) - SPM plugin for swift-format linting and auto-formatting, with Xcode support
 
 I'm also a runner - helps me to keep my mind clear and keeps my Strava active.
+
+### Test Example
+
+<div style="display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px;">
+  <div style="display: flex; gap: 16px; align-items: flex-start; padding: 16px; border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
+    <div style="width: 128px; height: 128px; background-color: #1f6feb; border-radius: 4px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; gap: 8px;">
+      <div><strong>Square One</strong></div>
+      <div style="color: #8b949e; font-size: 14px;">This is a test example with a colored square on the left</div>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 16px; align-items: flex-start; padding: 16px; border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
+    <div style="width: 128px; height: 128px; background-color: #238636; border-radius: 4px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; gap: 8px;">
+      <div><strong>Square Two</strong></div>
+      <div style="color: #8b949e; font-size: 14px;">This is another test example with a different colored square</div>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 16px; align-items: flex-start; padding: 16px; border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
+    <div style="width: 128px; height: 128px; background-color: #da3633; border-radius: 4px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; gap: 8px;">
+      <div><strong>Square Three</strong></div>
+      <div style="color: #8b949e; font-size: 14px;">This is the third test example showing the layout works well</div>
+    </div>
+  </div>
+</div>
+
 <!--
 <a rel="me" href="https://mastodon.social/@OleksiiKolomiiets">Mastodon</a>
 -->
