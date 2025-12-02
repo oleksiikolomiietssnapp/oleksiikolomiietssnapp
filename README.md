@@ -21,7 +21,7 @@ Here is what we have in public:
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong><br/>
-      Enables support for SVG asset in SnappTheming <br/>
+      Enables SVG in SnappTheming <br/>
       <a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappThemingSVGSupport?style=flat-square" alt="Release"></a>
     </td>
   </tr>
@@ -32,8 +32,8 @@ Here is what we have in public:
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappDesignTokens">SnappDesignTokens</a></strong><br/>
-      Design tokens in Swift-understandable format <br/>
-       <a href="https://github.com/Snapp-Mobile/SnappDesignTokens/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappDesignTokens?style=flat-square" alt="Release"></a>
+      Design tokens in Swift format <br/>
+      <a href="https://github.com/Snapp-Mobile/SnappDesignTokens/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappDesignTokens?style=flat-square" alt="Release"></a>
     </td>
   </tr>
 </table>
