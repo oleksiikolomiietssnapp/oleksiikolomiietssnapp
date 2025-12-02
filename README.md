@@ -43,13 +43,23 @@ Here is what we have in public:
 
 ### Developer Tools
 
-
 | <strong><a href="https://github.com/Snapp-Mobile/swift-coverage-action">swift-coverage-action</a></strong> <a href="https://github.com/Snapp-Mobile/swift-coverage-action/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/swift-coverage-action?style=flat-square" alt="Release"></a> | GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates |
 |:--|:--|
-| <strong><a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin">SwiftFormatLintPlugin</a></strong> <a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SwiftFormatLintPlugin?style=flat-square" alt="Release"></a> | SPM plugin for swift-format linting and auto-formatting, with Xcode support |                   
-  
+| <strong><a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin">SwiftFormatLintPlugin</a></strong> <a href="https://github.com/Snapp-Mobile/SwiftFormatLintPlugin/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SwiftFormatLintPlugin?style=flat-square" alt="Release"></a> | SPM plugin for swift-format linting and auto-formatting, with Xcode support |      
 
-I'm also a runner - helps me to keep my mind clear and keeps my Strava active.
+### Comunity 
+
+We at @Snapp-Mobile also publishing weekly newsletter with all the stuff that's worth to read:
+
+[<img src="https://img.shields.io/badge/Subscribe%20to%20newsletter-452BE9?style=for-the-badge&logoColor=white&labelColor=452be9" alt="Subscribe">](https://ios-newsletter.snappmobile.io/subscribe.html)
+
+
+### Outside
+
+I'm also a runner - helps me to keep my mind clear and keeps my Strava active:
+
+[<img src="https://img.shields.io/badge/Follow%20on%20Strava-FC5200?style=for-the-badge&logo=strava&logoColor=white" alt="Follow on Strava">](https://strava.com/athletes/109103351)
+
 <!--
 <a rel="me" href="https://mastodon.social/@OleksiiKolomiiets">Mastodon</a>
 -->
