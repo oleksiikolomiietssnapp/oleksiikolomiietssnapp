@@ -13,18 +13,15 @@ Here is what we have in public:
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappTheming">SnappTheming</a></strong> <br/>
-      A comprehensive SwiftUI design system with theming capabilities <br/>
+      Instant design theme switch <br/>
       <a href="https://github.com/Snapp-Mobile/SnappTheming/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappTheming?style=flat-square" alt="Release"></a>
     </td>
-  </tr>
-
-  <tr>
     <td width="96" valign="top">
       <img src="https://raw.githubusercontent.com/Snapp-Mobile/SnappThemingSVGSupport/main/Sources/SnappThemingSVGSupport/SnappThemingSVGSupport.docc/Resources/logo_svg.png" width="96">
     </td>
     <td valign="top">
       <strong><a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport">SnappThemingSVGSupport</a></strong><br/>
-      enables support for SVG asset handling in SnappTheming <br/>
+      Enables support for SVG asset in SnappTheming <br/>
       <a href="https://github.com/Snapp-Mobile/SnappThemingSVGSupport/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappThemingSVGSupport?style=flat-square" alt="Release"></a>
     </td>
   </tr>
