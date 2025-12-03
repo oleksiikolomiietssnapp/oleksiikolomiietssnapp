@@ -1,8 +1,6 @@
 ## Hi there 👋. I'm Oleksii, an iOS developer.
 
-I like SwiftUI and its API a lot, so much that I build a DesignSystem for a client with a passion. This passion has kept me exploring the topic for a few years. My teammates got excited about it too. So we ended up exploring with theming and tokens.
-
-Here is what we have in public:
+I do like SwiftUI and its API a lot, so much that I build a DesignSystem for a client with a passion. This passion has kept me exploring the topic for a few years. My teammates got excited about it as well. So we ended up exploring with theming and tokens. Even build and published some frameworks.
 
 ### Open sourced frameworks
 
