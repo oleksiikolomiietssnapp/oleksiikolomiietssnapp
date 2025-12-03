@@ -35,8 +35,18 @@ Here is what we have in public:
       Design tokens in Swift format <br/>
       <a href="https://github.com/Snapp-Mobile/SnappDesignTokens/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/SnappDesignTokens?style=flat-square" alt="Release"></a>
     </td>
+    <td width="96" valign="top">
+      <img src="https://github.com/oleksiikolomiietssnapp/MediaBridge/blob/main/Sources/Documentation.docc/Resources/media_bridge_logo.png" width="96">
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/oleksiikolomiietssnapp/MediaBridge">MediaBridge</a></strong><br/>
+      Simple access to the music library<br/>
+      <a href="https://github.com/oleksiikolomiietssnapp/MediaBridge/releases"><img src="https://img.shields.io/github/v/release/oleksiikolomiietssnapp/MediaBridge?style=flat-square" alt="Release"></a>
+    </td>
   </tr>
 </table>
+
+https://github.com/oleksiikolomiietssnapp/MediaBridge
 
 ### Developer Tools
 
