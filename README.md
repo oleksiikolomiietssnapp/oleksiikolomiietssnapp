@@ -44,8 +44,6 @@ I do like SwiftUI and its API a lot - so much that I built a design system for a
   </tr>
 </table>
 
-https://github.com/oleksiikolomiietssnapp/MediaBridge
-
 ### Developer Tools
 
 | <strong><a href="https://github.com/Snapp-Mobile/swift-coverage-action">swift-coverage-action</a></strong> <a href="https://github.com/Snapp-Mobile/swift-coverage-action/releases"><img src="https://img.shields.io/github/v/release/Snapp-Mobile/swift-coverage-action?style=flat-square" alt="Release"></a> | GitHub Marketplace action for automated Swift test coverage reporting with PR comments and quality gates |
