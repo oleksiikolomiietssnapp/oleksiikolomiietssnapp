@@ -2,6 +2,7 @@
 
 **`Passionate about SwiftUI`**
 **`Theming & Tokens Explorer`**
+**`Open Source Contributor`**
 
 I do like SwiftUI and its API a lot - so much that I built a design system for a client with passion. This passion has kept me exploring the topic for a few years. My teammates got excited about it as well, so we ended up exploring theming and tokens and publishing some frameworks.
 
