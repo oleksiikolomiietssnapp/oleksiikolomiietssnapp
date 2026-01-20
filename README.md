@@ -56,7 +56,7 @@ I do like SwiftUI and its API a lot - so much that I built a design system for a
 
 ### Comunity 
 
-We at Snapp also publishing [weekly newsletter](https://ios-newsletter.snappmobile.io/archive.html) with all the stuff that's worth to read:
+Helping to publish [weekly newsletter](https://ios-newsletter.snappmobile.io/archive.html) with all the stuff that's worth to read:
 
 [<img src="https://img.shields.io/badge/Subscribe%20to%20newsletter-452BE9?style=for-the-badge&logoColor=white&labelColor=452be9" alt="Subscribe">](https://ios-newsletter.snappmobile.io/subscribe.html)
 
